@@ -1,1 +1,1 @@
-# movieBuddy
+# friendFinder
